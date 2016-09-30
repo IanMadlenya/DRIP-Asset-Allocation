@@ -19,6 +19,29 @@ For Installation, Documentation and Samples, please check out [DRIP] (https://gi
  * MPT Core Mathematical Model
  * CAPM Asset Pricing
 
+###Black Litterman Model Library
+####The Black Litterman Model
+ * Canonical Black-Litterman Reference Model
+ * Computing the Equilibrium Returns
+ * Specifying the Views
+ * View Distribution in the Asset Space
+ * Specifying Omega
+ * Omega Proportional to the Variance of the Prior
+ * Using Confidence Inteval for Omega
+ * Omega as the Variance of Residuals from a Factor Model
+ * Using Idzorek's Method for Omega
+ * The Estimation Model
+ * Theil's Mixed Estimation Model
+ * The PDF Based Approach
+ * Using Bayes' Theorem for the Estimation Model
+ * The Alternate Reference Model
+ * The Impact of Tau
+ * Calibration of Tau
+ * Black Litterman Model Implementation Steps
+ * Extensions to the Black Litterman Model
+
+####Black Litterman Model Attributions
+ * Analysis of teh Unconstrained Optimal Portfolio
 
 
 ##Contact
