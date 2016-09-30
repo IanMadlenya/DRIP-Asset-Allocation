@@ -56,6 +56,10 @@ For Installation, Documentation and Samples, please check out [DRIP] (https://gi
  * Implied Confidence Levels
  * The Tilt-Based Intuitive Approach
 
+####Simplieified Black Litterman Surplus Optimizer
+ * Black Litterman Surplus Optimizer Inputs
+ * Cash Flow Projections and Liability Returns
+
 
 ##Contact
 
