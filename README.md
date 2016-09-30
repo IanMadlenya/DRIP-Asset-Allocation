@@ -41,7 +41,20 @@ For Installation, Documentation and Samples, please check out [DRIP] (https://gi
  * Extensions to the Black Litterman Model
 
 ####Black Litterman Model Attributions
- * Analysis of teh Unconstrained Optimal Portfolio
+ * Analysis of the Unconstrained Optimal Portfolio
+ * Impact of an Incremental Projection
+ * Projection Distribution Dependence on Parameters
+ * Black Litterman Intuition Numerical Examples
+
+####Incorporating User Specified Confidence Levels
+ * Estimating the Excess Returns Distribution
+ * Reverse Optimization of Expected Returns
+ * The Black Litterman Model
+ * Building the Inputs
+ * Fine Tuning the Model
+ * Method for Incorporating User-Specified Confidence Levels
+ * Implied Confidence Levels
+ * The Tilt-Based Intuitive Approach
 
 
 ##Contact
