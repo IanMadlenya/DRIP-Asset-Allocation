@@ -16,8 +16,8 @@ For Installation, Documentation and Samples, please check out [DRIP] (https://gi
 ##Features
 
 ###MPT Framework Model Library
-####MPT Core Mathematical Model
-####CAPM Asset Pricing
+ * MPT Core Mathematical Model
+ * CAPM Asset Pricing
 
 
 
