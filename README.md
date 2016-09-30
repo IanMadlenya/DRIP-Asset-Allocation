@@ -2,7 +2,7 @@
 
 **v2.34**  *29 September 2016*
 
-DRIP Asset Allocation aims to collect model libraries for portfolio theory, Black Litterman Strategy Incorporator, Holdings Constraint, and Transaction Costs Modeling.
+DRIP Asset Allocation aims to collect model libraries for MPT framework, Black Litterman Strategy Incorporator, Holdings Constraint, and Transaction Costs Modeling.
 
 DRIP Asset Allocation is composed of four main model libraries:
  * MPT Framework Model Library
@@ -59,6 +59,29 @@ For Installation, Documentation and Samples, please check out [DRIP] (https://gi
 ####Simplieified Black Litterman Surplus Optimizer
  * Black Litterman Surplus Optimizer Inputs
  * Cash Flow Projections and Liability Returns
+
+###Transaction Costs Model Library
+####Optimal Execution of Portfolio Transactions
+ * Defining a Trading Strategy
+ * Price Dynamics
+ * Temporary Market Impact
+ * Capture and Cost of Trading Trajectories
+ * Linear Impact Functions
+ * The Efficient Frontier of Optimal Execution
+ * The Definition of the Frontier
+ * Explicit Construction of Optimal Strategies
+ * The Half-Life of a Trade
+ * Structure of the Frontier
+ * The Utility Function
+ * Value-at-Risk
+ * The Role of Utility in Execution
+ * Choice of Parameters
+ * The Value of Information
+ * Drift
+ * Gain due to Drift
+ * Serial Correlation
+ * Parameter Shifts
+ * Numerical Optimal Trajectory Generation
 
 
 ##Contact
