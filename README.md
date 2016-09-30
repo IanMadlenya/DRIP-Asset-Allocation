@@ -2,7 +2,7 @@
 
 **v2.34**  *29 September 2016*
 
-DRIP Asset Allocation aims to collect model libraries for portfolio theory, Black Litterman Stregetgy Incorporator, Holdings Constraint, and Transaction Costs Modeling.
+DRIP Asset Allocation aims to collect model libraries for portfolio theory, Black Litterman Strategy Incorporator, Holdings Constraint, and Transaction Costs Modeling.
 
 DRIP Asset Allocation is composed of four main model libraries:
  * MPT Framework Model Library
