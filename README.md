@@ -93,6 +93,22 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Linear-Enhanced Risk
  * Almgren (2003) Nonlinear Example Sample
 
+####Market Impact Function/Parameters Estimation
+ * Data Description and Filtering Rules
+ * Data Model - Variables
+ * Trajectory Cost Model
+ * Permanent Impact
+ * Temporary Impact
+ * Choice of the Functional Form
+ * Cross-Sectional Description
+ * Model Determination
+ * Determination of the Coefficients
+ * Residual Analysis
+
+####Principal Program Trades
+ * The Model
+
+
 
 ##Contact
 
