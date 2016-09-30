@@ -106,8 +106,24 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Residual Analysis
 
 ####Principal Program Trades
- * The Model
+ * Efficient Frontier Pricing of Program Trades
+ * The Efficient Frontier Including Discount
+ * Performance Measures
+ * Annualization
+ * Definition of the Information Ratio
+ * Applications of the Information Ratio
 
+####Market Making Models
+ * Width/Skew/Size Estimation Models
+ * Market Making System SKU
+ * Market Making Parameter Types
+ * Intra-day Pricing Curve Generation Schemes
+ * Mid-Price Models
+ * Width Models
+ * Skew Models
+ * Size Model
+ * Heuristic Controls
+ * Flow Analysis
 
 
 ##Contact
