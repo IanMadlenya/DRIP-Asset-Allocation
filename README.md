@@ -13,6 +13,14 @@ DRIP Asset Allocation is composed of four main model libraries:
 For Installation, Documentation and Samples, please check out [DRIP] (https://github.com/lakshmiDRIP/DRIP).
 
 
+##Features
+
+###MPT Framework Model Library
+####MPT Core Mathematical Model
+####CAPM Asset Pricing
+
+
+
 ##Contact
 
 lakshmi@synergicdesign.com
