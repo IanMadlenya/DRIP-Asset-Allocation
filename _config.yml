@@ -2,7 +2,7 @@ title: Drip-asset-allocation
 description: DRIP Asset Allocation Suite
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-modernist
 
 gems:
   - jekyll-mentions
