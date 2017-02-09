@@ -14,14 +14,14 @@ DRIP Asset Allocation is composed of the following main model libraries:
 For Installation, Documentation and Samples, and the associated supporting Numerical Libraries please check out [DRIP] (https://github.com/lakshmiDRIP/DRIP).
 
 
-##DRIP Core Technical Specifications
+**DRIP Core Technical Specifications**
 
  * [Asset Allocation Library](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/AssetAllocation/AssetAllocation_v2.13.pdf)
  * [Fixed Income Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/FixedIncome/FixedIncomeAnalytics_v2.47.pdf)
  * [Transaction Cost Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/TransactionCost/TransactionCostAnalytics_v2.53.pdf)
 
 
-##DRIP Supporting Technical Specifications
+**DRIP Supporting Technical Specifications**
 
  * [Spline Builder Library](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/SplineBuilder/SplineBuilder_v0.82.pdf)
  * [Numerical Optimization Library](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/NumericalOptimizer/NumericalOptimization_v2.05.pdf)
@@ -29,7 +29,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * [Machine Learning Library](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/MachineLearning/MachineLearningLibrary_v0.92.pdf)
 
 
-##Additional Documentation
+**Additional Documentation**
 
  * [DRIP GitHub Source](https://github.com/lakshmiDRIP/DRIP)
  * [DRIP API Javadoc](https://lakshmidrip.github.io/DRIP/Javadoc/index.html)
@@ -39,7 +39,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * User guide is a work in progress!
 
 
-##Samples (Asset Allocation)
+**Samples (Asset Allocation)**
 
  * [Asset Liability Management](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/alm)
  * [Asset Allocation Core](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/assetallocation)
@@ -51,7 +51,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * [Asset Allocation Core](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/assetallocation)
 
 
-##Samples (Transaction Cost)
+**Samples (Transaction Cost)**
 
  * [Mean-Variance Execution](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/almgrenchriss)
  * [Nonlinear Impact Function](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/almgren2003)
@@ -64,7 +64,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * [Adaptive, Static, and Rolling Horizon Trajectories](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/almgren2012)
 
 
-##Features
+**Features**
 
 ###MPT Framework Model Library
 
