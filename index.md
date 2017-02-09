@@ -14,7 +14,7 @@ DRIP Asset Allocation is composed of the following main model libraries:
 For Installation, Documentation and Samples, and the associated supporting Numerical Libraries please check out [DRIP] (https://github.com/lakshmiDRIP/DRIP).
 
 
-***DRIP Core Technical Specifications***
+ ##DRIP Core Technical Specifications
 
  * [Asset Allocation Library](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/AssetAllocation/AssetAllocation_v2.13.pdf)
  * [Fixed Income Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/FixedIncome/FixedIncomeAnalytics_v2.47.pdf)
