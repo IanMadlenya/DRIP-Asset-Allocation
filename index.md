@@ -14,14 +14,14 @@ DRIP Asset Allocation is composed of the following main model libraries:
 For Installation, Documentation and Samples, and the associated supporting Numerical Libraries please check out [DRIP] (https://github.com/lakshmiDRIP/DRIP).
 
 
-<H1>DRIP Core Technical Specifications</H1>
+<H3>DRIP Core Technical Specifications</H3>
 
  * [Asset Allocation Library](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/AssetAllocation/AssetAllocation_v2.13.pdf)
  * [Fixed Income Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/FixedIncome/FixedIncomeAnalytics_v2.47.pdf)
  * [Transaction Cost Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/TransactionCost/TransactionCostAnalytics_v2.53.pdf)
 
 
-**DRIP Supporting Technical Specifications**
+<H3>DRIP Supporting Technical Specifications</H3>
 
  * [Spline Builder Library](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/SplineBuilder/SplineBuilder_v0.82.pdf)
  * [Numerical Optimization Library](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/NumericalOptimizer/NumericalOptimization_v2.05.pdf)
@@ -29,7 +29,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * [Machine Learning Library](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/MachineLearning/MachineLearningLibrary_v0.92.pdf)
 
 
-**Additional Documentation**
+<H3>Additional Documentation</H3>
 
  * [DRIP GitHub Source](https://github.com/lakshmiDRIP/DRIP)
  * [DRIP API Javadoc](https://lakshmidrip.github.io/DRIP/Javadoc/index.html)
@@ -39,7 +39,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * User guide is a work in progress!
 
 
-**Samples (Asset Allocation)**
+<H3>Samples (Asset Allocation)</H3>
 
  * [Asset Liability Management](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/alm)
  * [Asset Allocation Core](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/assetallocation)
@@ -51,7 +51,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * [Asset Allocation Core](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/assetallocation)
 
 
-**Samples (Transaction Cost)**
+<H3>Samples (Transaction Cost)</H3>
 
  * [Mean-Variance Execution](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/almgrenchriss)
  * [Nonlinear Impact Function](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/almgren2003)
@@ -64,16 +64,16 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * [Adaptive, Static, and Rolling Horizon Trajectories](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/almgren2012)
 
 
-**Features**
+<H3>Features</H3>
 
-###MPT Framework Model Library
+<H4>MPT Framework Model Library</H4>
 
  * MPT Core Mathematical Model
  * CAPM Asset Pricing
 
-###Black Litterman Model Library
+<H4>Black Litterman Model Library</H4>
 
-####The Black Litterman Model
+<H4>The Black Litterman Model</H4>
 
  * Canonical Black-Litterman Reference Model
  * Computing the Equilibrium Returns
@@ -94,14 +94,14 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Black Litterman Model Implementation Steps
  * Extensions to the Black Litterman Model
 
-####Black Litterman Model Attributions
+<H4>Black Litterman Model Attributions</H4>
 
  * Analysis of the Unconstrained Optimal Portfolio
  * Impact of an Incremental Projection
  * Projection Distribution Dependence on Parameters
  * Black Litterman Intuition Numerical Examples
 
-####Incorporating User Specified Confidence Levels
+<H4>Incorporating User Specified Confidence Levels</H4>
 
  * Estimating the Excess Returns Distribution
  * Reverse Optimization of Expected Returns
@@ -112,14 +112,14 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Implied Confidence Levels
  * The Tilt-Based Intuitive Approach
 
-####Simplified Black Litterman Surplus Optimizer
+<H4>Simplified Black Litterman Surplus Optimizer</H4>
 
  * Black Litterman Surplus Optimizer Inputs
  * Cash Flow Projections and Liability Returns
 
-###Transaction Costs Model Library
+<H3>Transaction Costs Model Library</H3>
 
-####Execution of Portfolio Transactions - Optimal Trajectory
+<H4>Execution of Portfolio Transactions - Optimal Trajectory</H4>
 
  * Defining a Trading Strategy
  * Price Dynamics
@@ -142,7 +142,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Parameter Shifts
  * Numerical Optimal Trajectory Generation
 
-####Non-linear Impact and Trading-Enhanced Risk
+<H4>Non-linear Impact and Trading-Enhanced Risk</H4>
 
  * The Model
  * Nonlinear Cost Functions
@@ -153,7 +153,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Linear-Enhanced Risk
  * Almgren (2003) Nonlinear Example Sample
 
-####Market Impact Function/Parameters Estimation
+<H4>Market Impact Function/Parameters Estimation</H4>
 
  * Data Description and Filtering Rules
  * Data Model - Variables
@@ -166,7 +166,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Determination of the Coefficients
  * Residual Analysis
 
-####Optimal Execution of Program Trades
+<H4>Optimal Execution of Program Trades</H4>
 
  * Efficient Frontier Pricing of Program Trades
  * The Efficient Frontier Including Discount
@@ -175,7 +175,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Definition of the Information Ratio
  * Applications of the Information Ratio
 
-####Bayesian Trading with a Daily Trend
+<H4>Bayesian Trading with a Daily Trend</H4>
 
  * Price Motion Using Bayesian Update
  * Bayesian Inference
@@ -185,7 +185,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Optimality of the Bayesian Adaptive Strategy
  * Stochastic Optimal Control Treatment
 
-####Cost Adaptive Arrival Price Trading
+<H4>Cost Adaptive Arrival Price Trading</H4>
 
  * Adaptive Strategies - Trading in Practice
  * AIM/PIM, and Prospect Theory
@@ -197,7 +197,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Almgren and Lorenz (2007) Results Replication
  * Continuous Response - Numerical Results Comparison
 
-####Optimal Trading in a Dynamic Market
+<H4>Optimal Trading in a Dynamic Market</H4>
 
  * Limitations of Arrival Price Frameworks
  * The Liquidation Problem
@@ -219,7 +219,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * HJB Grid Space Discretization
  * Almgren (2009, 2012) Solutions Replication
 
-####Market Making Models
+<H4>Market Making Models</H4>
 
  * Width/Skew/Size Estimation Models
  * Market Making System SKU
@@ -233,11 +233,11 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Flow Analysis
 
 
-##Licence
+<H2>Licence</H2>
 
 Apache 2.0
 
 
-##Contact
+<H2>Contact</H2>
 
 lakshmi@synergicdesign.com
