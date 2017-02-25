@@ -17,9 +17,10 @@ For Installation, Documentation and Samples, and the associated supporting Numer
 
 <H3>DRIP Core Technical Specifications</H3>
 
- * [Asset Allocation Library](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/AssetAllocation/AssetAllocation_v2.13.pdf)
- * [Fixed Income Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/FixedIncome/FixedIncomeAnalytics_v2.47.pdf)
- * [Transaction Cost Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/TransactionCost/TransactionCostAnalytics_v2.53.pdf)
+ * [Asset Allocation Library](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/AssetAllocation/AssetAllocation_v2.56.pdf)
+ * [Fixed Income Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/FixedIncome/FixedIncomeAnalytics_v2.58.pdf)
+ * [Transaction Cost Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/TransactionCost/TransactionCostAnalytics_v2.57.pdf)
+ * [XVA Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/XVA/XVAAnalytics_v2.53.pdf)
 
 
 <H3>DRIP Supporting Technical Specifications</H3>
