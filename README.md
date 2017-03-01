@@ -1,6 +1,6 @@
 #DRIP Asset Allocation
 
-**v2.62**  *25 February 2017*
+**v2.63**  *1 March 2017*
 
 DRIP Asset Allocation is a collection of model libraries for MPT framework, Black Litterman Strategy Incorporator, Holdings Constraint, and Transaction Costs.
 
