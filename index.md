@@ -43,26 +43,26 @@ For Installation, Documentation and Samples, and the associated supporting Numer
 
 <H3>Samples (Asset Allocation)</H3>
 
- * [Asset Liability Management](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/alm)
- * [Asset Allocation Core](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/assetallocation)
- * [Asset Allocation Excel](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/assetallocationexcel)
- * [Black Litterman Core](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/blacklitterman)
- * [Efficient Frontier MPT](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/efficientfrontier)
- * [He Litterman Intuition](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/helitterman)
- * [Idzorek User Confidence](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/idzorek)
+ * [Asset Liability Management](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/alm)
+ * [Asset Allocation Core](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/assetallocation)
+ * [Asset Allocation Excel](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/assetallocationexcel)
+ * [Black Litterman Core](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/blacklitterman)
+ * [Efficient Frontier MPT](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/efficientfrontier)
+ * [He Litterman Intuition](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/helitterman)
+ * [Idzorek User Confidence](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/idzorek)
 
 
 <H3>Samples (Transaction Cost)</H3>
 
- * [Mean-Variance Execution](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/almgrenchriss)
- * [Nonlinear Impact Function](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/almgren2003)
- * [Market Impact Estimator](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/athl)
- * [Optimal Numerical Execution](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/execution)
- * [Liquidity VaR Objective](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/lvar)
- * [Principal Agency Execution](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/principal)
- * [Bayesian Trend Drift Analysis](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/trend)
- * [HJB Based Adaptive Trajectories](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/almgren2009)
- * [Adaptive, Static, and Rolling Horizon Trajectories](https://github.com/lakshmiDRIP/DRIP/tree/master/org/drip/sample/almgren2012)
+ * [Mean-Variance Execution](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/almgrenchriss)
+ * [Nonlinear Impact Function](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/almgren2003)
+ * [Market Impact Estimator](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/athl)
+ * [Optimal Numerical Execution](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/execution)
+ * [Liquidity VaR Objective](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/lvar)
+ * [Principal Agency Execution](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/principal)
+ * [Bayesian Trend Drift Analysis](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/trend)
+ * [HJB Based Adaptive Trajectories](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/almgren2009)
+ * [Adaptive, Static, and Rolling Horizon Trajectories](https://github.com/lakshmiDRIP/DRIP/tree/master/src/main/java/org/drip/sample/almgren2012)
 
 
 <H3>Features</H3>
