@@ -1,6 +1,6 @@
-#DRIP Asset Allocation
+# DRIP Asset Allocation
 
-**v2.66**  *13 March 2017*
+**v2.67**  *22 March 2017*
 
 DRIP Asset Allocation is a collection of model libraries for MPT framework, Black Litterman Strategy Incorporator, Holdings Constraint, and Transaction Costs.
 
@@ -13,14 +13,14 @@ DRIP Asset Allocation is composed of the following main model libraries:
 For Installation, Documentation and Samples, and the associated supporting Numerical Libraries please check out [DRIP] (https://github.com/lakshmiDRIP/DRIP).
 
 
-##Features
+## Features
 
-###MPT Framework Model Library
+### MPT Framework Model Library
  * MPT Core Mathematical Model
  * CAPM Asset Pricing
 
-###Black Litterman Model Library
-####The Black Litterman Model
+### Black Litterman Model Library
+#### The Black Litterman Model
  * Canonical Black-Litterman Reference Model
  * Computing the Equilibrium Returns
  * Specifying the Views
@@ -40,13 +40,13 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Black Litterman Model Implementation Steps
  * Extensions to the Black Litterman Model
 
-####Black Litterman Model Attributions
+#### Black Litterman Model Attributions
  * Analysis of the Unconstrained Optimal Portfolio
  * Impact of an Incremental Projection
  * Projection Distribution Dependence on Parameters
  * Black Litterman Intuition Numerical Examples
 
-####Incorporating User Specified Confidence Levels
+#### Incorporating User Specified Confidence Levels
  * Estimating the Excess Returns Distribution
  * Reverse Optimization of Expected Returns
  * The Black Litterman Model
@@ -56,12 +56,12 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Implied Confidence Levels
  * The Tilt-Based Intuitive Approach
 
-####Simplified Black Litterman Surplus Optimizer
+#### Simplified Black Litterman Surplus Optimizer
  * Black Litterman Surplus Optimizer Inputs
  * Cash Flow Projections and Liability Returns
 
-###Transaction Costs Model Library
-####Optimal Execution of Portfolio Transactions
+### Transaction Costs Model Library
+#### Optimal Execution of Portfolio Transactions
  * Defining a Trading Strategy
  * Price Dynamics
  * Temporary Market Impact
@@ -83,7 +83,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Parameter Shifts
  * Numerical Optimal Trajectory Generation
 
-####Nonlinear Impact Functions and Trading Enhanced Risk
+#### Nonlinear Impact Functions and Trading Enhanced Risk
  * The Model
  * Nonlinear Cost Functions
  * Objective Functions
@@ -93,7 +93,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Linear-Enhanced Risk
  * Almgren (2003) Nonlinear Example Sample
 
-####Market Impact Function/Parameters Estimation
+#### Market Impact Function/Parameters Estimation
  * Data Description and Filtering Rules
  * Data Model - Variables
  * Trajectory Cost Model
@@ -105,7 +105,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Determination of the Coefficients
  * Residual Analysis
 
-####Principal Program Trades
+#### Principal Program Trades
  * Efficient Frontier Pricing of Program Trades
  * The Efficient Frontier Including Discount
  * Performance Measures
@@ -113,7 +113,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Definition of the Information Ratio
  * Applications of the Information Ratio
 
-####Market Making Models
+#### Market Making Models
  * Width/Skew/Size Estimation Models
  * Market Making System SKU
  * Market Making Parameter Types
@@ -126,6 +126,6 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Flow Analysis
 
 
-##Contact
+## Contact
 
 lakshmi@synergicdesign.com
