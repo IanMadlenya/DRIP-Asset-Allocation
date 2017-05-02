@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://github.com/lakshmiDRIP/DRIP/blob/master/DRIP_Logo.gif?raw=true" width="100"></p>
 
-**v2.67**  22 March 2017
+**v2.77**  2 May 2017
 
 DRIP Asset Allocation is a collection of model libraries for MPT framework, Black Litterman Strategy Incorporator, Holdings Constraint, and Transaction Costs.
 
@@ -20,7 +20,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * [Asset Allocation Library](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/AssetAllocation/AssetAllocation_v2.56.pdf)
  * [Fixed Income Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/FixedIncome/FixedIncomeAnalytics_v2.58.pdf)
  * [Transaction Cost Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/TransactionCost/TransactionCostAnalytics_v2.57.pdf)
- * [XVA Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/XVA/XVAAnalytics_v2.62.pdf)
+ * [XVA Analytics](https://github.com/lakshmiDRIP/DRIP/tree/master/Docs/DRIPSpecification/XVA/XVAAnalytics_v2.77.pdf)
 
 
 <H3>DRIP Supporting Technical Specifications</H3>
